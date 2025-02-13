@@ -8,6 +8,11 @@ html,body {
     overflow: auto; /* Permite que tenha um scroll na página */
 }
 
+/* Coisas para melhorar:
+    - Painting está ficando torto e vazando
+    - Analisar se o menu está funcionando bem em ambas as telas
+*/
+
 body {
     background-color: aquamarine;
     
